@@ -1,1 +1,3 @@
-console.log("");
+exports.myDateTime = function() {
+    return Date();
+   };
